@@ -1,16 +1,19 @@
 ﻿  HelloWorld.c
-E:\Csource\repos\MyC\MyC\HelloWorld.c(33,7): warning C4215: 使用了非标准扩展: 长浮点
-E:\Csource\repos\MyC\MyC\HelloWorld.c(45,27): warning C4474: printf: 格式字符串中传递的参数太多
-E:\Csource\repos\MyC\MyC\HelloWorld.c(45,27): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): message : 请考虑在格式字符串中使用“%zd”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): message : 请考虑在格式字符串中使用“%zd”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): message : 请考虑在格式字符串中使用“%zd”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“size_t”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): message : 请考虑在格式字符串中使用“%zd”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“size_t”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(51,9): message : 请考虑在格式字符串中使用“%zd”
-E:\Csource\repos\MyC\MyC\HelloWorld.c(28,8): warning C4305: “初始化”: 从“double”到“float”截断
+E:\Csource\repos\MyC\MyC\HelloWorld.c(34,7): warning C4215: 使用了非标准扩展: 长浮点
+E:\Csource\repos\MyC\MyC\HelloWorld.c(47,27): warning C4474: printf: 格式字符串中传递的参数太多
+E:\Csource\repos\MyC\MyC\HelloWorld.c(47,27): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 4 拥有了类型“size_t”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 5 拥有了类型“size_t”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(53,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Csource\repos\MyC\MyC\HelloWorld.c(29,8): warning C4305: “初始化”: 从“double”到“float”截断
+E:\Csource\repos\MyC\MyC\HelloWorld.c(151,7): warning C4101: “LP”: 未引用的局部变量
+E:\Csource\repos\MyC\MyC\HelloWorld.c(109,7): warning C4101: “buf2”: 未引用的局部变量
+E:\Csource\repos\MyC\MyC\HelloWorld.c(192,8): warning C4101: “p2”: 未引用的局部变量
   MyC.vcxproj -> E:\Csource\repos\MyC\x64\Debug\MyC.exe
